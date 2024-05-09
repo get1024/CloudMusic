@@ -26,14 +26,14 @@ npm install
 npm run serve
 ```
 出现下图所示即为成功：
-![]()
+![](https://github.com/get1024/CloudMusic/blob/main/readme_assets/front_end_start.png)
 ### 2.2、启动Api
 进入`MusicApi`文件夹，运行以下命令：
 ```sh
 npm start
 ```
 出现下图所示即为成功：
-![]()
+![](https://github.com/get1024/CloudMusic/blob/main/readme_assets/api_start.png)
 ## 3、项目使用
 打开浏览器，进入`http://localhost:8080`，即进入了本项目。
 
